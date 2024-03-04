@@ -1,5 +1,6 @@
-package com.oz.omar.photos.clone;
+package com.oz.omar.photos.clone.service;
 
+import com.oz.omar.photos.clone.model.Photo;
 import org.springframework.stereotype.Service;
 
 import java.util.Collection;

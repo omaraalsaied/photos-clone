@@ -1,4 +1,4 @@
-package com.oz.omar.photos.clone;
+package com.oz.omar.photos.clone.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.validation.constraints.NotEmpty;

@@ -1,5 +1,7 @@
-package com.oz.omar.photos.clone;
+package com.oz.omar.photos.clone.web;
 
+import com.oz.omar.photos.clone.model.Photo;
+import com.oz.omar.photos.clone.service.PhotosService;
 import org.springframework.http.*;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

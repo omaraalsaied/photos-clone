@@ -1,6 +1,8 @@
-package com.oz.omar.photos.clone;
+package com.oz.omar.photos.clone.web;
 
 
+import com.oz.omar.photos.clone.model.Photo;
+import com.oz.omar.photos.clone.service.PhotosService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
